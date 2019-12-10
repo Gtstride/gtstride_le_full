@@ -35,3 +35,9 @@ $ jekyll serve
 ```
 
 At that point, the app will be running on [localhost:4000](http://localhost:4000). To deploy your app, push up the app to GitHub Pages as [described](https://www.learnenough.com/css-and-layout-tutorial/css/introduction/sample_site_setup) in [*Learn Enough CSS & Layout to Be Dangerous*](https://www.learnenough.com/css-and-layout-tutorial).
+
+```
+Author: Godstime Omorogbe Agho
+```
+
+The website is hosted on github pages at: https://gtstride.github.io/gtstride_le_full/
